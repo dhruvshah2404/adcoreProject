@@ -1,6 +1,5 @@
 <template>
-  <Tutorial/>
-</template>
+  </template>
 
 <script>
 export default {}
